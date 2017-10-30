@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on broken alarms</title>
+    <link>/categories/programming/</link>
+    <description>Recent content in Programming on broken alarms</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2017 13:26:02 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I got my job at linkedin</title>
+      <link>/blog/how-i-got-my-job-at-linkedin/</link>
+      <pubDate>Mon, 30 Oct 2017 13:26:02 -0700</pubDate>
+      
+      <guid>/blog/how-i-got-my-job-at-linkedin/</guid>
+      <description>BLAH hello</description>
+    </item>
+    
+    <item>
+      <title>how I got my job at linkedin</title>
+      <link>/blog/how-i-got-my-job-at-linkedin--2/</link>
+      <pubDate>Mon, 30 Oct 2017 13:26:02 -0700</pubDate>
+      
+      <guid>/blog/how-i-got-my-job-at-linkedin--2/</guid>
+      <description>BLAH hello</description>
+    </item>
+    
+  </channel>
+</rss>
